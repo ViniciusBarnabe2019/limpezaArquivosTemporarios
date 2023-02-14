@@ -26,7 +26,16 @@ class Processo {
 		processo.Arguments = arquivo;
 		
 		//Define o Nível de Privilégio em que o Processo será Executado
-		processo.Verb = privilegio;			
+		processo.Verb = privilegio;		
+
+		//Oculta Janela do Processo caso a mesma exista
+		processo.WindowStyle = ProcessWindowStyle.Hidden;
+
+		//Desativa Criação de Janela pro Processo
+		processo.CreateNoWindow = true;
+
+		//Executa o Processo pelo Shell Padrão (PowerShell) do SO
+		processo.UseShellExecute = true;	
 		
 		//Pega o Processo em Execução (Aberto)
 		processoAberto = Process.Start(processo);
