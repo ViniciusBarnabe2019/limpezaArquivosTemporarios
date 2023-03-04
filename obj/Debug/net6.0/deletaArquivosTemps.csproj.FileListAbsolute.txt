@@ -1,0 +1,15 @@
+C:\Users\Papaleguas\Desktop\AZIDEIA\TERABYTECENTER\Cursos\Programação\VideosDemonstrativos\deletarTemporarios\deletaArquivosTemps\obj\Debug\net6.0\deletaArquivosTemps.csproj.AssemblyReference.cache
+C:\Users\Papaleguas\Desktop\AZIDEIA\TERABYTECENTER\Cursos\Programação\VideosDemonstrativos\deletarTemporarios\deletaArquivosTemps\obj\Debug\net6.0\deletaArquivosTemps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Papaleguas\Desktop\AZIDEIA\TERABYTECENTER\Cursos\Programação\VideosDemonstrativos\deletarTemporarios\deletaArquivosTemps\obj\Debug\net6.0\deletaArquivosTemps.AssemblyInfoInputs.cache
+C:\Users\Papaleguas\Desktop\AZIDEIA\TERABYTECENTER\Cursos\Programação\VideosDemonstrativos\deletarTemporarios\deletaArquivosTemps\obj\Debug\net6.0\deletaArquivosTemps.AssemblyInfo.cs
+C:\Users\Papaleguas\Desktop\AZIDEIA\TERABYTECENTER\Cursos\Programação\VideosDemonstrativos\deletarTemporarios\deletaArquivosTemps\obj\Debug\net6.0\deletaArquivosTemps.csproj.CoreCompileInputs.cache
+C:\Users\Papaleguas\Desktop\AZIDEIA\TERABYTECENTER\Cursos\Programação\VideosDemonstrativos\deletarTemporarios\deletaArquivosTemps\bin\Debug\net6.0\deletaArquivosTemps.exe
+C:\Users\Papaleguas\Desktop\AZIDEIA\TERABYTECENTER\Cursos\Programação\VideosDemonstrativos\deletarTemporarios\deletaArquivosTemps\bin\Debug\net6.0\deletaArquivosTemps.deps.json
+C:\Users\Papaleguas\Desktop\AZIDEIA\TERABYTECENTER\Cursos\Programação\VideosDemonstrativos\deletarTemporarios\deletaArquivosTemps\bin\Debug\net6.0\deletaArquivosTemps.runtimeconfig.json
+C:\Users\Papaleguas\Desktop\AZIDEIA\TERABYTECENTER\Cursos\Programação\VideosDemonstrativos\deletarTemporarios\deletaArquivosTemps\bin\Debug\net6.0\deletaArquivosTemps.dll
+C:\Users\Papaleguas\Desktop\AZIDEIA\TERABYTECENTER\Cursos\Programação\VideosDemonstrativos\deletarTemporarios\deletaArquivosTemps\bin\Debug\net6.0\deletaArquivosTemps.pdb
+C:\Users\Papaleguas\Desktop\AZIDEIA\TERABYTECENTER\Cursos\Programação\VideosDemonstrativos\deletarTemporarios\deletaArquivosTemps\obj\Debug\net6.0\deletaArquivosTemps.dll
+C:\Users\Papaleguas\Desktop\AZIDEIA\TERABYTECENTER\Cursos\Programação\VideosDemonstrativos\deletarTemporarios\deletaArquivosTemps\obj\Debug\net6.0\refint\deletaArquivosTemps.dll
+C:\Users\Papaleguas\Desktop\AZIDEIA\TERABYTECENTER\Cursos\Programação\VideosDemonstrativos\deletarTemporarios\deletaArquivosTemps\obj\Debug\net6.0\deletaArquivosTemps.pdb
+C:\Users\Papaleguas\Desktop\AZIDEIA\TERABYTECENTER\Cursos\Programação\VideosDemonstrativos\deletarTemporarios\deletaArquivosTemps\obj\Debug\net6.0\deletaArquivosTemps.genruntimeconfig.cache
+C:\Users\Papaleguas\Desktop\AZIDEIA\TERABYTECENTER\Cursos\Programação\VideosDemonstrativos\deletarTemporarios\deletaArquivosTemps\obj\Debug\net6.0\ref\deletaArquivosTemps.dll
